@@ -2,4 +2,10 @@
 
 > An awesome project.
 
-## Other
+## Gruppe C
+
+Die Teammitglieder der `Gruppe C` sind:
+
+- Berndt Rausch
+- Markus Übeleis
+- Thomas Weyse
