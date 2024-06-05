@@ -10,5 +10,5 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Docsify GitHub](https://github.com/docsifyjs/docsify/)
+[Gruppe C Github](https://github.com/berndtrausch/platform_documentation)
