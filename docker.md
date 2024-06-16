@@ -1,7 +1,7 @@
 > # Dockerfile
 
 ```
-FROM node:20.04
+FROM node:20
 WORKDIR /platform
 COPY . .
 RUN npm install -g docsify-cli
