@@ -1,11 +1,11 @@
 # Getting started
 
-This gettint started page is heavily influenced by the official documentation. Be careful to run this commands in bash on windows.
+This is a guide to setup a new docsify locally. This getting started page is heavily influenced by the official documentation. Be careful to run this commands in bash on windows.
 
 ## Quick start
 
 
-For the inital setup the official documentation recommends to globally install `docsify-cli` to initialize and preview the website locally.
+For the inital setup the official documentation recommends to globally install `docsify-cli` to initialize and preview the website locally. 
 
 ```
 npm i docsify-cli -g
@@ -27,4 +27,4 @@ To run and preview the current state of the documentation page run this command:
 docsify serve .
 ```
 
-This will run the current documentaion on `localhost:3000`
+This will run the current documentation on `localhost:3000`
